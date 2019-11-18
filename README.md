@@ -8,16 +8,12 @@ Hello! I'm Jennifer and I'm a Junior at HSTAT. I really enjoy Science and Math a
 
 #### **SCHEDULE**
 
-> English 5
+>* English 5
+>* Dance
+>* Software Engineering
+>* AP Calculus AB
+>* US History 
+>* Lunch
+>* AP Chemistry
+>* Study Hall
 
->Software Engineering
-
->AP Calculus AB
-
->US History
-
->Lunch
-
->AP Chemistry
-
-> AP Chemistry Lab/Study Hall
